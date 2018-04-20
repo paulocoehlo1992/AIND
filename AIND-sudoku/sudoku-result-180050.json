@@ -1,0 +1,16 @@
+{
+    "critiques": {
+        "689": {
+            "rubric_items": {
+                "5531": {
+                    "result": "passed",
+                    "observation": "Correct!"
+                },
+                "5530": {
+                    "result": "failed",
+                    "observation": "Your solve() function did not yield a valid solution for diagonal sudoku.  Try your code on the following example:\n9.1....8.8.5.7..4.2.4....6...7......5..............83.3..6......9................\n"
+                }
+            }
+        }
+    }
+}
